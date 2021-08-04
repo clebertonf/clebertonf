@@ -1,4 +1,4 @@
-### Ola, seja bem vindo!
+### Ola, seja bem vindo(a)!
 
 Meu nome e Cleberton sou programador back-end, formado em análise e desenvolvimento de sistemas, e quase me formando na [Trybe](https://www.betrybe.com/). atualmente programo em JavaScript com Node.JS, e me aventuro no mundo .NET C#.
 Adoro resolver problemas, e acredito que a tecnologia é somente uma ferramenta para resolução de problemas. Com esta visão procuro todos os dias estar me desafiando
